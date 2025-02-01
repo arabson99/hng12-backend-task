@@ -3,7 +3,7 @@
 This is a simple API that returns basic information as part of the HNG12 Stage 0 Backend Task.
 
 ## 🚀 API URL
-- **Live URL**: [https://hng12-api.onrender.com](https://hng12-api.onrender.com)
+- **Live URL**: [https://hng12-backend-task-ten.vercel.app/](https://hng12-backend-task-ten.vercel.app/)
 
 ## Endpoit
 - **GET** `/`
