@@ -18,7 +18,7 @@ app.add_middleware(
 def get_info():
     return {
         "email": "arabiusman99@gmail.com",
-        "current_time": datetime.now(timezone.utc).isoformat() + "Z",
+        "current_datetime": datetime.now(timezone.utc).isoformat() + "Z",
         "github_url": "https://github.com/arabson99/hng12-backend-task.git",
     }
     
